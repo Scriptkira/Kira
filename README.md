@@ -1,2 +1,0 @@
-# Kira
-Code bot
